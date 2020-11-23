@@ -1,0 +1,2 @@
+x="python internship programme"
+print(x[3:])
